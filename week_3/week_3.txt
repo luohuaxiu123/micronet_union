@@ -1,5 +1,5 @@
 IxChariot、MobaXterm、上周所学协议的完善√、
-TCP√、UDP √
+
 
 
 路由协议 路由表√、路由转发√
